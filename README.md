@@ -5,9 +5,9 @@ Dự án thiết kế và chế tạo gậy thông minh hỗ trợ người khi�
 1. **Dẫn đường:** Phát hiện vật cản trong phạm vi 0-120cm, phản hồi bằng độ rung biến thiên (càng gần rung càng mạnh).
 2. **SOS khẩn cấp:** Gửi tin nhắn SMS kèm tọa độ GPS chính xác tới người thân khi gặp nguy hiểm.
 
-![Sơ đồ khối](Images/block_diagram.png) 
+[Sơ đồ khối](Images/Block_diagram.png) 
 
-![Sơ đồ xử lí của app](Images/app_process.png) 
+[Sơ đồ xử lí của app](Images/App_process.png) 
 
 ## 🛠️ Linh kiện sử dụng
 - **Vi điều khiển:** Arduino Nano
