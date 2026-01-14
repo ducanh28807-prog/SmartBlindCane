@@ -51,4 +51,4 @@ Dự án thiết kế và chế tạo gậy thông minh hỗ trợ người khi�
 | 3 | Nguyễn Duy Hiếu | 202514629 | Báo cáo - Thuyết trình |
 
 ## 📄 Báo cáo chi tiết
-Vui lòng xem file báo cáo đầy đủ tại: [Documentation/Final_Report.pdf](Documentation/)
+Vui lòng xem file báo cáo đầy đủ tại: [Documentation/Final_Report.pdf](Documentation/Final_Project.docx)
