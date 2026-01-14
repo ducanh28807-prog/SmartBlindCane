@@ -6,6 +6,7 @@ Dự án thiết kế và chế tạo gậy thông minh hỗ trợ người khi�
 2. **SOS khẩn cấp:** Gửi tin nhắn SMS kèm tọa độ GPS chính xác tới người thân khi gặp nguy hiểm.
 
 ![Sơ đồ khối](Images/block_diagram.png) 
+
 ![Sơ đồ xử lí của app](Images/app_process.png) 
 
 ## 🛠️ Linh kiện sử dụng
